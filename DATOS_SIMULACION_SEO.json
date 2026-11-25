@@ -1,0 +1,268 @@
+{
+  "simulador": {
+    "nombre": "SEO LAB v3.1 – Laboratorio de Decisiones y Desafíos Empresariales",
+    "modulo": "Módulo 1 · Analítica Web, SEO y SEM",
+    "nivel": "Octavo Semestre de Marketing",
+    "faseProyecto": "Fase 1: Auditoría Integral y Diagnóstico del Proyecto Final Gestión Analítica de Activos Digitales",
+    "duracionEstimadaMinutos": 90,
+    "version": "3.1.0",
+    "ultimaActualizacion": "2026-11-19",
+    "pinDocente": "1628",
+    "notaMinimaAprobatoria": 7
+  },
+  "rubricaAcademica": {
+    "escalaMaxima": 10,
+    "criterios": [
+      {
+        "id": "c1",
+        "nombre": "Diagnóstico y priorización sustentada",
+        "pesoMaximo": 2,
+        "descripcion": "Registro de hallazgos verificables en bitácora y selección fundamentada de las 3 prioridades críticas de la Decisión 2."
+      },
+      {
+        "id": "c2",
+        "nombre": "Cálculo e interpretación de métricas",
+        "pesoMaximo": 2,
+        "descripcion": "Cálculo exacto de CTR (fórmula Clics/Impresiones*100), intención de búsqueda, diagnóstico de brecha de CTR y Decisión 3."
+      },
+      {
+        "id": "c3",
+        "nombre": "Decisiones de inversión y optimización",
+        "pesoMaximo": 2.5,
+        "descripcion": "Distribución presupuestaria dentro de 100 créditos y redacción técnica de title y meta con pertinencia semántica y palabras clave locales."
+      },
+      {
+        "id": "c4",
+        "nombre": "Evaluación de resultados y ajustes",
+        "pesoMaximo": 1.5,
+        "descripcion": "Análisis crítico de la proyección de clics y pedidos en Decisión 5 y fundamentación del objetivo empresarial en Decisión 1."
+      },
+      {
+        "id": "c5",
+        "nombre": "Informe y transferencia a empresa real",
+        "pesoMaximo": 2,
+        "subcriterios": {
+          "recomendacionesMedibles": 1,
+          "transferenciaEmpresaReal": 1
+        },
+        "descripcion": "Formulación de 3 recomendaciones propias viables y medibles con métricas de control más la formulación de empresa real, URL y metodología para la Fase 1."
+      }
+    ]
+  },
+  "estudiantesOficiales": [
+    {
+      "nombre": "ABARCA BENAVIDES ALEXIS SEBASTIAN",
+      "grupo": "Grupo Amarillo"
+    },
+    {
+      "nombre": "CARGUA RODRIGUEZ MELANY ALEJANDRA",
+      "grupo": "Grupo Azul"
+    },
+    {
+      "nombre": "CHARCO SUQUI GERSON ISAI",
+      "grupo": "Grupo Amarillo"
+    },
+    {
+      "nombre": "CHARIGUAMAN PEÑALOZA PAULO SAITH",
+      "grupo": "Grupo Verde"
+    },
+    {
+      "nombre": "CORONEL MIÑO SEBASTIAN GABRIEL",
+      "grupo": "Grupo Azul"
+    },
+    {
+      "nombre": "CUNISPUMA CEPEDA CRISTIAN EFRAIN",
+      "grupo": "Grupo Verde"
+    },
+    {
+      "nombre": "ESCOBAR PEREZ MICHAEL ISAAC",
+      "grupo": "Grupo Verde"
+    },
+    {
+      "nombre": "FLORES CALDERON ANDREA ESTEFANIA",
+      "grupo": "Grupo Azul"
+    },
+    {
+      "nombre": "GUALAN CONDO JOSE ERVIN",
+      "grupo": "Grupo Verde"
+    },
+    {
+      "nombre": "GUANO TANDAZO DAYCE MAYERLI",
+      "grupo": "Grupo Verde"
+    },
+    {
+      "nombre": "GUARANDA PAGUAY MARCO JESUS",
+      "grupo": "Grupo Blanco"
+    },
+    {
+      "nombre": "HUEBLA MAGIN DENNIS ESTALYN",
+      "grupo": "Grupo Blanco"
+    },
+    {
+      "nombre": "MACANCHI GONZALEZ MAYDELIN MARISOL",
+      "grupo": "Grupo Amarillo"
+    },
+    {
+      "nombre": "QUINZO SOLIS KEVIN ARNALDO",
+      "grupo": "Grupo Blanco"
+    },
+    {
+      "nombre": "QUISNIA QUITAQUIS BRILLIT ESTEFANIA",
+      "grupo": "Grupo Azul"
+    },
+    {
+      "nombre": "RUALES QUINCHUELA JOSE NICOLAS",
+      "grupo": "Grupo Blanco"
+    },
+    {
+      "nombre": "VALDIVIESO HERMOSA DANILO FERNANDO",
+      "grupo": "Grupo Blanco"
+    },
+    {
+      "nombre": "VERA ALDAZ GISSEL STEFANY",
+      "grupo": "Grupo Amarillo"
+    },
+    {
+      "nombre": "YUMBAY AGUALSACA BYRON JOEL",
+      "grupo": "Grupo Azul"
+    }
+  ],
+  "desafiosEmpresariales": [
+    {
+      "etapa": 1,
+      "titulo": "Asignación de Recursos para 19.500 impresiones / 565 clics",
+      "descripcion": "Dulces Andinos Riobamba registra 19.500 impresiones y 565 clics orgánicos en 30 días. La gerencia solicita mejorar las oportunidades de venta con recursos limitados. ¿Qué problemas atenderías primero y por qué?"
+    },
+    {
+      "etapa": 2,
+      "titulo": "Clasificación de 3 Errores Críticos con Evidencias",
+      "descripcion": "Inspeccionar las 5 páginas simuladas, registrar hallazgos verificables y priorizar los 3 problemas críticos que están frenando las conversiones y el rastreo de Google."
+    },
+    {
+      "etapa": 3,
+      "titulo": "Priorización bajo Escenario de 1 Semana de Plazo",
+      "descripcion": "Con solo 1 semana de recursos disponibles antes de la temporada alta de Riobamba, ¿qué página específica del sitio debes priorizar para optimizar y por qué?"
+    },
+    {
+      "etapa": 4,
+      "titulo": "Distribución Máxima de 100 Créditos y Taller SERP",
+      "descripcion": "Distribuir hasta 100 créditos entre 6 módulos de optimización y redactar en vivo los fragmentos de búsqueda con pertinencia semántica y local."
+    },
+    {
+      "etapa": 5,
+      "titulo": "Mantener, Ajustar o Replantear tras Datos Proyectados",
+      "descripcion": "Evaluar la nueva puntuación en el gráfico radar de 8 dimensiones y decidir el curso de acción estratégico según el retorno de inversión proyectado."
+    },
+    {
+      "etapa": 6,
+      "titulo": "3 Recomendaciones Medibles + Transferencia GAAD",
+      "descripcion": "Formular 3 recomendaciones propias con métricas cuantitativas y transferir la metodología de auditoría a la empresa real del proyecto semestral."
+    }
+  ],
+  "empresaSimulada": {
+    "nombre": "Dulces Andinos Riobamba",
+    "ubicacion": "Riobamba, Chimborazo, Ecuador",
+    "actividad": "Elaboración y comercialización de dulces artesanales tradicionales",
+    "productosPrincipales": [
+      "Dulce de higo con queso",
+      "Mermelada de mora y uvilla",
+      "Conservas de frutas andinas",
+      "Cajas de regalo gourmet"
+    ],
+    "publicoObjetivo": "Consumidores locales en Riobamba y turistas nacionales/extranjeros en la Sierra Central",
+    "canalConversion": "WhatsApp Business (+593 98 765 4321)",
+    "metricasBase30Dias": {
+      "impresiones": 19500,
+      "clics": 565,
+      "ctrPromedio": 2.9,
+      "posicionMedia": 14.8
+    }
+  },
+  "nubePalabrasClave": [
+    {
+      "keyword": "dulce de higo riobamba",
+      "volumenMensual": 2400,
+      "ctrGSC": 4.2,
+      "intencion": "Transaccional",
+      "url": "/dulce-de-higo"
+    },
+    {
+      "keyword": "dulces tipicos de riobamba",
+      "volumenMensual": 1900,
+      "ctrGSC": 3.1,
+      "intencion": "Local Comercial",
+      "url": "/"
+    },
+    {
+      "keyword": "comprar dulce de higo artesanal",
+      "volumenMensual": 1350,
+      "ctrGSC": 5.4,
+      "intencion": "Transaccional",
+      "url": "/dulce-de-higo"
+    },
+    {
+      "keyword": "mermelada de mora riobamba",
+      "volumenMensual": 880,
+      "ctrGSC": 2.8,
+      "intencion": "Comercial",
+      "url": "/productos"
+    },
+    {
+      "keyword": "pedidos dulces whatsapp riobamba",
+      "volumenMensual": 720,
+      "ctrGSC": 6.2,
+      "intencion": "Conversion Directa",
+      "url": "/contacto"
+    },
+    {
+      "keyword": "como hacer dulce de higo tradicional",
+      "volumenMensual": 3200,
+      "ctrGSC": 0.8,
+      "intencion": "Informacional",
+      "url": "/nosotros"
+    },
+    {
+      "keyword": "donde comprar dulces en riobamba",
+      "volumenMensual": 1450,
+      "ctrGSC": 4.5,
+      "intencion": "Local Transaccional",
+      "url": "/contacto"
+    },
+    {
+      "keyword": "dulce de higo con queso precio",
+      "volumenMensual": 1100,
+      "ctrGSC": 4.8,
+      "intencion": "Transaccional",
+      "url": "/dulce-de-higo"
+    }
+  ],
+  "glosarioSeo": [
+    {
+      "termino": "CTR (Click-Through Rate)",
+      "categoria": "Metricas",
+      "formula": "(Clics / Impresiones) * 100",
+      "definicion": "Porcentaje de personas que hacen clic en el resultado tras haberlo visto en Google."
+    },
+    {
+      "termino": "LCP (Largest Contentful Paint)",
+      "categoria": "Core Web Vitals",
+      "meta": "< 2.5s",
+      "definicion": "Tiempo necesario para que el elemento de contenido principal termine de cargarse."
+    },
+    {
+      "termino": "NAP (Name, Address, Phone)",
+      "categoria": "SEO Local",
+      "definicion": "Consistencia idéntica del Nombre comercial, Dirección física y Teléfono en la web y Google Maps."
+    },
+    {
+      "termino": "Schema.org (Datos Estructurados)",
+      "categoria": "Semantica",
+      "definicion": "Marcado JSON-LD que comunica a Google el tipo de entidad (Producto, FAQ, Negocio Local)."
+    },
+    {
+      "termino": "Intencion de Busqueda",
+      "categoria": "Estrategia",
+      "definicion": "Objetivo del usuario: Transaccional (comprar), Comercial (comparar), Informacional (aprender)."
+    }
+  ]
+}
